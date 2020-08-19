@@ -3,13 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+description: Aditya Paliwal's homepage.
+output: 
+  html_document:
+    includes:
+       in_header: google6f587bfb4e221999.html
 ---
 
 Hi!
 
-# About
-
-Computer Scientist, Software Engineer and two-time world finalist at the
+I am a Computer Scientist, Software Engineer and two-time world finalist at the
  [ICPC](https://icpc.global/).
  
 Ask me about: Aritificial Intelligence, Deep Learning, Machine Learning, ML 
