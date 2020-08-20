@@ -17,7 +17,7 @@ I am a Computer Scientist, Software Engineer and two-time world finalist at the
  [ICPC](https://icpc.global/).
  
 Ask me about: Aritificial Intelligence, Deep Learning, Machine Learning, ML 
-for Systems, Google, Competitive Programming.
+for Systems, Google, Competitive Programming and US Visas.
 
 [LinkedIn](https://www.linkedin.com/in/apal95/)
 
@@ -46,7 +46,7 @@ proving on the HOList benchmark.
 There are several non-trivial ways to represent an s-expression as a graph and
 some of them are clearly better than others.
 
-## [Zero-Shot Learning for Fast Optimization of Computation Graphs, NeurIPS  2019](http://mlforsystems.org/assets/papers/neurips2019/zero_shot_paliwal_2019.pdf)
+## [Zero-Shot Learning for Fast Optimization of Computation Graphs, NeurIPS 2019](http://mlforsystems.org/assets/papers/neurips2019/zero_shot_paliwal_2019.pdf)
 
 A short version of our ICLR paper, I presented this at the [ML for Systems](http://mlforsystems.org)
  Workshop at Vancouver in December 2019.
