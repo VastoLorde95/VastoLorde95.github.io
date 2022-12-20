@@ -15,7 +15,7 @@ I am a Computer Scientist, Software Engineer and two-time world finalist at the
  [ICPC](https://icpc.global/).
 
 Ask me about: Aritificial Intelligence, Deep Learning, Machine Learning, ML 
-for Systems, Vim, Neovim, Ergonomic Keyboards, Google, Competitive Programming and [US Visas](/visa).
+for Systems, [Vim, Neovim, Ergonomic Keyboards](/tools), Google, Competitive Programming and [US Visas](/visa).
 
 You can find my publications [here](/publications) and contact details [here](/contact).
 
