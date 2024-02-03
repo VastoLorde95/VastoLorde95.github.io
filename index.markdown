@@ -14,13 +14,16 @@ output:
 I am a Computer Scientist, Software Engineer and two-time world finalist at the
  [ICPC](https://icpc.global/).
 
-Ask me about: Aritificial Intelligence, Deep Learning, Machine Learning, ML 
-for Systems, [Vim, Neovim, Ergonomic Keyboards](/tools), Google, Competitive Programming and [US Visas](/visa).
+Currently, I am a Member of Technical Staff at [xAI](https://x.ai/career/).
 
-You can find my publications [here](/publications) and contact details [here](/contact).
+Prior to this I was a Quantitative Developer at Citadel Securities in New York City, and an AI Resident at Google New York.
 
+My indoor bouldering grade is v9 🧗
 
-## Podcast
-Lately, I have been following this awesome indie podcast [The Sheeples](https://www.thesheeples.in/). You should check them out!
+[Ask me about](/contact): 
 
-
+- [Artificial Intelligence](/publications)
+- [Vim, Neovim, Ergonomic Keyboards](/tools)
+- Competitive Programming
+- [US Visas](/visa)
+- Rock Climbing
